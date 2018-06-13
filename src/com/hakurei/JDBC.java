@@ -13,6 +13,8 @@ public class JDBC {
     public JDBC()
     {
         init();
+
+        
     }
     //初始化环境
     public void init()
