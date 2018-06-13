@@ -14,7 +14,10 @@ public class JDBC {
     {
         init();
 
+
+
         
+
     }
     //初始化环境
     public void init()
